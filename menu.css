@@ -1,0 +1,8 @@
+nav ul{
+	list-style-type:none;
+	text-align:right;
+	background:#aed6f1
+}
+nav li{
+	display:inline;
+}
