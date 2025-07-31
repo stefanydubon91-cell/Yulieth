@@ -1,0 +1,29 @@
+.coca ul {
+		display: flex;
+		padding: 0;
+		margin: 0;
+		list-style: none;
+	}
+	.coca a {
+		display: block;
+		padding: 1em;
+		background-color: #aed6f1;
+		text-decoration: none;
+		color: #191C26;
+	}
+	.coca a:hover {
+		background-color: black;
+		color: white;
+	}
+	.coca ul li ul {
+		display: none;
+	}
+	.coca ul li a:hover + ul, .coca ul li ul:hover {
+		display: block;
+	}
+	body{
+		background: #abebc6
+	}
+	ul <li{
+		text-align: right;
+	}
